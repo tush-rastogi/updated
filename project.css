@@ -1,0 +1,90 @@
+.header{
+         height:70%;
+           width:auto;
+         
+           text-align:center;
+           padding-top:10%;
+             font-size:50px;
+             color:white;
+           // display:block;
+            background-image:url("empty-cinema-hall-realistic-background_1284-11758.jpg");
+            background-repeat:no-repeat;
+            background-position:center;
+            background-size:100% 100%;
+            margin:auto auto auto auto;
+             
+             
+}
+     
+
+  
+
+
+        
+      
+
+
+
+
+
+         .middle{
+
+             background:linear-gradient(45deg,black,navy);
+             height:auto; 
+             width:auto;  
+           
+        
+         
+           
+          
+
+            
+
+   }  
+   
+
+
+   
+
+      .footer{
+                height:auto;
+                width:auto;
+                 background:linear-gradient(45deg,navy,black);
+     }
+
+
+       
+      .navbar{
+               min-height:10%;
+               background:linear-gradient(45deg,grey,navy);
+}
+ 
+
+.last{
+         background-color:grey;
+          height:auto;
+          width:auto;
+      
+           color:white;
+          background:linear-gradient(45deg,grey,navy);
+}
+
+ .modal-content{
+             background:white;
+             
+          }
+
+
+.nav-link:hover{
+                  text-rendering:black;
+                 transform:scale(1.2);
+}
+
+
+
+
+
+
+
+
+
